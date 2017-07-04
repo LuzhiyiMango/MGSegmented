@@ -1,0 +1,6 @@
+framework module MGSegmented {
+  umbrella header "MGSegmented-umbrella.h"
+
+  export *
+  module * { export * }
+}

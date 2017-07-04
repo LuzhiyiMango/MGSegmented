@@ -1,0 +1,6 @@
+framework module Pods_MGSegmented_Example {
+  umbrella header "Pods-MGSegmented_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
